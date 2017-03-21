@@ -5,40 +5,77 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-20T06:25:17.000Z</updated>
+  <updated>2017-03-21T06:13:36.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Dong Shaoyang</name>
+    <name>Data4Fun</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/03/20/hello-world/"/>
-    <id>http://yoursite.com/2017/03/20/hello-world/</id>
-    <published>2017-03-20T06:25:17.000Z</published>
-    <updated>2017-03-20T06:25:17.000Z</updated>
+    <title>读《全栈市场人》的收获</title>
+    <link href="http://yoursite.com/2017/03/21/%E8%AF%BB%E3%80%8A%E5%85%A8%E6%A0%88%E5%B8%82%E5%9C%BA%E4%BA%BA%E3%80%8B%E7%9A%84%E6%94%B6%E8%8E%B7/"/>
+    <id>http://yoursite.com/2017/03/21/读《全栈市场人》的收获/</id>
+    <published>2017-03-21T06:10:36.000Z</published>
+    <updated>2017-03-21T06:13:36.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<h3 id="初探互联网"><a href="#初探互联网" class="headerlink" title="初探互联网"></a>初探互联网</h3><p>介绍了一般互联网公司的职位和日常工作。虽然自己也在互联网公司工作，但让自己介绍所有工种的职能，估计自己也说不全。比如BD这个职位，以前身边的一个同事就是做这个职位的，有时坐班有时出差，偶尔会去一些大会做主持。看过这本书之后才知道BD的全称是Business Develop（商业拓展），工作的核心围绕着资源置换展开，以提高产品流量为目的。</p>
+<p>对比传统行业，书中也做了一个有趣的类比，互联网公司就是一家餐厅，CEO是餐厅老板，产品人员是餐厅的设计师，他要根据客人要求、本地风土人情设计出合适的菜品，运营是餐厅的大堂经理，负责送餐和日常餐厅保洁，市场（或者说是营销）负责餐厅的宣传，会四处做做广告，而研发则是最终操刀的厨子。总之，研发+产品+运营+市场是一个互联网公司的4大主力职位</p>
+<h3 id="技能养成"><a href="#技能养成" class="headerlink" title="技能养成"></a>技能养成</h3><p>文笔</p>
+<ul>
+<li>写文案前要明确目标</li>
+<li>写需求的套路：1.页面的功能和要求；2.页面的跳转逻辑；3.数据的支撑</li>
+<li>做事之前要有一个大纲，也要准备一个Plan B以备意外情况的发生</li>
+</ul>
+<p>技术</p>
+<ul>
+<li>修图、制作H5页面</li>
+</ul>
+<p>沟通</p>
+<ul>
+<li>情商高。平时就要注意维护，同事间、上游供货商、媒体渠道</li>
+</ul>
+<p>塑造个人品牌</p>
+<ul>
+<li>注意社交帐号的维护，知乎、微信（注意排版、字体小5号）、微博</li>
+<li>注意自己经手项目的总结和复盘</li>
+</ul>
+<p>学习</p>
+<ul>
+<li>找灵感：TOPTS、梅花网</li>
+<li>做市场，说穿了是做征服人的工作，所以了解传播效应、了解人的心理是本质的出发点。推荐《乌合之众》</li>
+</ul>
+<p>数据</p>
+<ul>
+<li>百度/google/腾讯统计</li>
+</ul>
+<p>案例</p>
+<ul>
+<li>百度关于“优衣库事件”的公关。&lt;寻找美好的 总能超越荒谬的&gt;</li>
+</ul>
+<h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><blockquote>
+<p>公关行为的本质试讲你想要传达的信息，经过包装处理，在通过你想要的渠道传递给你想要传递的你群，并让他们接受你的信息以及做出你期望的反应（提升好感、引导行为）</p>
+<p>直播文化，不过把从前游戏打的帅的人背后总有一堆人站着围观的场景，路边树荫下下棋的大爷背后一堆人指点的场景被平台聚集和放大了。</p>
+</blockquote>
+<p>最近一直在想为什么陌陌的营收能突然有6倍的增长，这或许解答了我部分的疑惑吧。</p>
+<p>Anyway，花了一周的时间读完了《全栈市场人》这本书，以上就是自己的收获吧，总体而言，还是一部不错的了解互联网市场岗位的入门书。最后吐槽一下，书的后几章每一个小节的安排有些随意，之间没有什么必然的联系，像是单独的文章硬生生的攒在一起；而且书中的配图质量以及配图和文件之间的关系也有些模糊。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;h3 id=&quot;初探互联网&quot;&gt;&lt;a href=&quot;#初探互联网&quot; class=&quot;headerlink&quot; title=&quot;初探互联网&quot;&gt;&lt;/a&gt;初探互联网&lt;/h3&gt;&lt;p&gt;介绍了一般互联网公司的职位和日常工作。虽然自己也在互联网公司工作，但让自己介绍所有工种的职能，估计自己也说不全。比如
     
     </summary>
     
+      <category term="读书笔记" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="我" scheme="http://yoursite.com/tags/%E6%88%91/"/>
     
   </entry>
   
